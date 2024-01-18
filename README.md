@@ -1,6 +1,26 @@
 # all-materials
 
-[python](/Python)
+- [python](#python)
+- [Py Torch](#py-torch)
+
+
+
+
+
+# Py Torch
+![image](https://github.com/ismartsiva/all-materials/assets/104131614/e737315e-395a-4982-a390-fdac44f43782)
+![image](https://github.com/ismartsiva/all-materials/assets/104131614/f1e175c3-47e1-44a5-94ab-2becfad697bb)
+![image](https://github.com/ismartsiva/all-materials/assets/104131614/5db51eb1-f6ed-4edd-8345-62e141fb5af0)
+![image](https://github.com/ismartsiva/all-materials/assets/104131614/10e3c409-e03f-4299-972f-26d4786dcb6d)
+
+  - ### Neural Networks
+     ![image](https://github.com/ismartsiva/all-materials/assets/104131614/3fb404d5-f5fa-4940-9216-0970225d11e5)
+     ![image](https://github.com/ismartsiva/all-materials/assets/104131614/92a39c39-7073-43af-aeb6-05915f0be03f)
+
+  - ### Types of Learning
+     ![image](https://github.com/ismartsiva/all-materials/assets/104131614/f8b50162-95a0-48a1-8c6f-128cab159afc)
+  - #### What is deep learning used for..?
+     
 
 
 
@@ -20,29 +40,4 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-###Python
 
