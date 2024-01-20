@@ -20,6 +20,16 @@
   - ### Types of Learning
      ![image](https://github.com/ismartsiva/all-materials/assets/104131614/f8b50162-95a0-48a1-8c6f-128cab159afc)
   - #### What is deep learning used for..?
+
+## Data Preparation 
+![image](https://github.com/ismartsiva/all-materials/assets/104131614/2493d58b-7c65-4c77-9380-2211d18d5275)
+
+![image](https://github.com/ismartsiva/all-materials/assets/104131614/0f502138-fea1-4977-b6e3-75268f5e57e9)
+
+![image](https://github.com/ismartsiva/all-materials/assets/104131614/478514e0-1122-42ee-a4d7-87cb92272747)
+
+
+
      
 
 
