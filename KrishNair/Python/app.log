@@ -1,5 +1,7 @@
-2024-07-03 00:46:44-root-DEBUG-this is a debug message
-2024-07-03 00:46:44-root-INFO-this is a info message
-2024-07-03 00:46:44-root-WARNING-this is a warning message
-2024-07-03 00:46:44-root-ERROR-this is a error message
-2024-07-03 00:46:44-root-CRITICAL-this is a critical message
+2024-07-03 08:09:40-root-DEBUG-this is a debug message
+2024-07-03 08:09:41-root-INFO-this is a info message
+2024-07-03 08:09:41-root-WARNING-this is a warning message
+2024-07-03 08:09:41-root-ERROR-this is a error message
+2024-07-03 08:09:41-root-CRITICAL-this is a critical message
+2024-07-03 08:13:12-module1-DEBUG-this is debug message from module 1
+2024-07-03 08:13:12-module2-WARNING-this is warning message from module 2
