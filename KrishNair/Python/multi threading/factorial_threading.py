@@ -35,3 +35,4 @@ if __name__ == "__main__":
     endtime = time.time()
     print(f"total time : {endtime-start_time}")
     print(f"Results : {results}")
+    print("All Done")
