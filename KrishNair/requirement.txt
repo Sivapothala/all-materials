@@ -9,3 +9,5 @@ flask
 streamlit
 scikit-learn
 statsmodels
+plotly
+nbformat>=4.2.0
