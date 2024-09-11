@@ -11,3 +11,6 @@ scikit-learn
 statsmodels
 plotly
 nbformat>=4.2.0
+nltk
+spacy
+gensim
